@@ -57,6 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -78,3 +79,5 @@ typings/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+>>>>>>> 26e4afc950930c09d7102f51a9c3a5b1785ef67d
